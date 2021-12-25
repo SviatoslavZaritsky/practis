@@ -1,0 +1,18 @@
+.p1{
+	text-decoration: overline;
+    color: red;
+}
+
+.p2{
+    text-decoration: line-through;
+    color: green;
+}
+
+.p3{
+    text-decoration: underline;
+}
+
+.a1{
+    text-decoration: none;
+    color: red;
+}

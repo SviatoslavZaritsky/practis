@@ -1,0 +1,21 @@
+h1{
+    width: 500px;
+    color: blue;
+    text-align: center;
+}
+h2{
+    width: 500px;
+    color: green;
+    text-align: center;
+}
+p{
+    text-indent: 25px;
+    width: 500px;
+    text-align: justify;
+}
+i{
+    color: green;
+}
+li{
+    width: 400px;
+}
